@@ -1,0 +1,393 @@
+.cls1{
+    border: 10px double skyblue;
+    border-right: 10px double skyblue;
+    border-bottom: 10px double gold;
+    border-left: 10px double gold;
+    margin: 15px 60px 0 60px;
+    background: url('/dudetrainedwebsite/project7certificate2/line2.jpg') center fixed no-repeat;
+    background-size: cover;
+}
+.cornerpic{
+    float: left;
+    height: 180px;
+    width: 250px;
+}
+.bottompic{
+    float: right;
+    height: 150px;
+    width: 180px;
+}
+.cls2{
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    margin-left: 200px;
+    font-weight: bolder;
+}
+.cls3{
+    text-align: center;
+    word-spacing: 8px;
+    font-weight: 700;
+    font-size: 35px;
+    margin-left: 200px;
+}
+.cls0{
+    float: right;
+}
+.image{
+    width: 180px;
+    height: 250px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.cls4{
+    text-align: center;
+    font-size: 25PX;
+    font-weight: 900;
+    margin-left: 200px;
+
+}
+hr{
+    background-color: blue;
+    border: 1px solid blue;
+    width: 380px;
+}
+.cls5{
+    text-align: center;
+    font-size: 25px;
+    font-style: oblique;
+    font-weight: bold;
+    color: orangered;
+    margin-left: 200px;
+}
+.cls6{
+    margin-left: 320px;
+    font-weight: 900;
+    font-weight: bold;
+    font-size: 30px;
+}
+.cls7{
+    text-align: center;
+    font-weight: 900;
+}
+.cls8{
+    margin-left: 570px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.cls9{
+    margin-left: 410px;
+    font-weight: 900;
+}
+.cls10{
+    margin-left: 430px;
+    font-size: 25px;
+    font-weight: bold;
+    letter-spacing: 10px;
+}
+.cls11{
+    margin-left: 340px;
+    font-size: 35px;
+    color: orangered;
+    font-weight: bolder;
+    letter-spacing: 10px;
+}
+.name{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+@media(max-width:599px){
+    .image{
+       margin-right: 100px;
+    }
+    .cls2{
+        margin-left: 60px;
+    }
+    .cls3{
+        margin-left: 40px;
+    }
+    .bottompic{
+        display: none;
+    }
+}
+@media(max-width:450px){
+    .image{
+        margin-right: 60px;
+    }
+    .cls2{
+        margin-left: 30px;
+    }
+    .cls3{
+        margin-left: 10px;
+        word-spacing: 2px;
+    }
+    hr{
+        background-color: blue;
+        border: 1px solid blue;
+        width: 250px;
+
+    }
+    .cls5{
+         text-align: center;
+         font-size: 30px;
+         font-style: oblique;
+     }
+    .bottompic{
+        display: none;
+     }
+}
+@media(max-width:1024px){
+    .cls1{
+        margin: 0;
+    }
+    .cls6{
+        margin-left: 240px;
+    }
+    .cls7{
+        font-size: 25px;
+    }
+    .cls8{
+        margin-left: 490px;
+    }
+    .cls9{
+        margin-left: 245px;
+        font-size: 25px;
+    }
+    .cls10{
+        margin-left: 380px;
+    }
+    .cls11{
+        margin-left: 280px;
+    }
+    .bottompic{
+        display: none;
+    }
+
+}
+@media(max-width:768px){
+    .cls2{
+        font-size: 35px;
+    }
+    .image{
+        width: 150px;
+       height: 230px;
+    }
+    .cls4{
+        font-size: 20px;
+    }
+    .cls5{
+        margin-left: 230px;
+    }
+    .name{
+        margin-left: 60px;
+    }
+    .cls6{
+        margin-left: 120px;
+    }
+    .cls8{
+        margin-left: 390px;
+    }
+    .bottompic{
+        height: 140px;
+        width: 150px;
+        margin-top: 50px;
+    }
+    .cls91{
+        margin-left: 300px;
+        font-size: 25px;
+        font-weight: bold;
+     }
+    .cls10 {
+        margin-left: 250px;
+    }
+    .cls11{
+        margin-left: 200px;
+        font-size: 25px;
+    }
+    .cornerpic{
+        width: 180px;
+    }
+    .bottompic{
+        display: none;
+    }
+}
+@media(max-width:375px){
+    .image{
+        width: 100px;
+        height: 200px;
+        margin-right: 110px;
+    }
+    .cls2{
+        font-size: 30px;
+        margin-top: 100px;
+    }
+    .cls3{
+        font-size: 30px;
+    }
+    .cls4{
+        margin-left: 10px;
+    }
+    .cls5{
+        margin-left: 0px;
+        font-size: 20px;
+    }
+    .name{
+        margin-left: 10px;
+    }
+    .cls6{
+        margin-left: 40px;
+        font-size: 15px;
+    }
+    .cls7{
+        font-size: 20px;
+    }
+    .cls8{
+        margin-left: 165px;
+    }
+    .bottompic{
+        display: none;
+    }
+    .cls9{
+        margin-left: 50px;
+    font-size: 20px;
+    }
+    .cls91{
+        margin-left: 95px;
+    font-size: 20px;
+    }
+    .cls10{
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    .cls11{
+        margin-left: 45px;
+        font-size: 20px;
+        letter-spacing: 5px;
+    }
+}
+@media(max-width:414px){
+    .cornerpic{
+        height: 150px;
+        width: 150px;
+    }
+    .image{
+        width: 100px;
+        height: 160px;
+        margin-top: 50px;
+        margin-right: 130px;
+    }
+    .cls2{
+        font-size: 30px;
+    }
+    .cls3{
+        font-size: 30px;
+        margin-left: 30px;
+    }
+    .cls4{
+        margin-left: 0;
+    }
+    .cls5{
+        margin-left: 0px;
+        font-size: 20px;
+    }
+    .name{
+        margin-left: 0px;
+    }
+    .cls6{
+        font-size: 20px;
+        margin-left: 10px;
+    }
+    .cls7{
+        font-size: 20px;
+    }
+    .cls8{
+        margin-left: 185px;
+    }
+    .bottompic{
+        display: none;
+    }
+    .cls9{
+        margin-left: 70px;
+        font-size: 20px;
+    }
+    .cls91{
+        margin-left: 120px;
+        font-size: 20px;
+    }
+}
+@media(max-width:360px){
+    .cornerpic{
+        height: 50px;
+        width: 50px;
+    }
+    .image{
+        margin-right: 5px;
+        margin-top: 5px;
+        height: 50px;
+        width: 50px;
+    }
+    .cls2{
+        margin-top: 5px;
+        font-size: 15px;
+        margin-bottom: .0rem;
+    }
+    .cls3{
+        font-size: 15px;
+        margin-bottom: .0rem;
+    }
+    .cls4{
+        margin-bottom: .0rem;
+        font-size: 14px;
+    }
+    .cls5{
+        font-size: 12px;
+        margin-bottom: .2rem;
+    }
+    hr{
+        margin-bottom: .2rem;
+        margin-top: .0rem;
+        border: 1px dotted blue;
+    }
+    .name{
+        font-size: 10px;
+        margin-bottom: .0rem;
+    }
+    .cls6{
+        font-size: 14px;
+        margin-left: 35px;
+        margin-bottom: .2rem;
+    }
+    .cls7{
+        font-size: 15px;
+        margin-bottom: .3rem;
+    }
+    .cls8{
+        font-size: 10px;
+        margin-left: 165px;
+        margin-bottom: .0rem;
+    }
+    .cls9{
+        font-size: 13px;
+        margin-left: 38px;
+    }
+    .cls10{
+        font-size: 12px;
+        margin-left: 70px;
+    }
+    .cls11{
+        margin-left: 70px;
+        font-size: 13px;
+    }
+    .bottompic{
+        height: 50px;
+        width: 50px;
+        float: right;
+        display: block;
+        margin: 5px 0 0 0;
+    }
+    .cls91{
+        font-size: 12px;
+        margin-left: 1px;
+    }
+}
